@@ -12,6 +12,7 @@
      <img width="600" heigth="600" src="assets/Jogons.png">
 </p>
 
+Link do projeto: https://desafio-portif-lio.vercel.app/
 
 🛠️ Construído com
 HTML, CSS e JavaScript.
