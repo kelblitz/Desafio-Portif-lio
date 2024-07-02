@@ -20,6 +20,7 @@ HTML, CSS e JavaScript.
 ✒️ Autores
 
 Alura - Trabalho Inicial 
+
 Raquel Oliveira - Desenvolvimento
 
 🎁 Agradecimentos
